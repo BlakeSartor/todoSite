@@ -15,11 +15,12 @@
 .custom-toggler.navbar-toggler {
   border-color: rgb(0,0,0);
 }
-
-span{
-    margin-right: 10px;
-}
-.someclass
+.form-check-input
 {
-  display: block;
+  color: rgb(0,0,0);
+}
+.navbar-nav.navy
+{
+  height: 70px;
+  display: inline-block;
 }
